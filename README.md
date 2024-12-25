@@ -1,2 +1,2 @@
 # Multimodal-RAG-using-Langchain
-Mutlimodal RAG implementation using LangChain
+Multimodal RAG using Langchain
