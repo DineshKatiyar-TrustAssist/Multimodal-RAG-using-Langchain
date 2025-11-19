@@ -129,8 +129,5 @@ curl -X POST \
 <h2 style="color:#dd6b20">Security and privacy</h2>
 - Do not commit your OpenAI API key to the repo. Use `.gitignore` to ignore `.env` files.
 
-<h2 style="color:#2f855a">Files changed / created</h2>
-- `README.md` — (this file) — usage, setup, architecture, and troubleshooting for the repo.
-
 <h2 style="color:#dd6b20">License</h2>
 - Check the repository root for `LICENSE` to verify repository licensing.
